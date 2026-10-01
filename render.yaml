@@ -60,11 +60,7 @@ services:
       # (see config.py's production fatal-check), which is intentional.
       - key: CORS_ORIGINS
         value: "https://REPLACE-WITH-YOUR-FRONTEND-URL.onrender.com"
-    disk:
-      name: securemailscope-uploads
-      mountPath: /app/uploads
-      sizeGB: 1
-
+        
   - type: web
     name: securemailscope-frontend
     runtime: static
