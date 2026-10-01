@@ -1,4 +1,4 @@
-# SecureMailScope
+# TLSight
 
 **AI-Assisted Cryptographic Security Posture Assessment for Secure Email Communications**
 Smart India Hackathon — Problem Statement **26159** | Organization: **National Technical Research Organisation (NTRO)** | Theme: Blockchain & Cybersecurity
